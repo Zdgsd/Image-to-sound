@@ -6,3 +6,4 @@ sounddevice
 soundfile
 opencv-python
 tkinterdnd2
+streamlit
