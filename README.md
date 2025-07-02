@@ -1,25 +1,28 @@
 Image to Sound Converter
 This application allows users to convert images into audio using spectrogram-based synthesis. It features a graphical user interface with drag-and-drop support, real-time parameter adjustment, webcam frame capture, waveform/spectrogram visualization, audio playback, and export functionality.
 
-Features
-Drag and drop image-to-sound conversion
+Features:
 
-Real-time parameter adjustment via sliders
+-Drag and drop image-to-sound conversion
 
-Toggle between waveform and spectrogram view
+-Real-time parameter adjustment via sliders
 
-Play, pause, and save the generated audio
+-Toggle between waveform and spectrogram view
 
-Webcam frame capture with preview and shutter control
+-Play, pause, and save the generated audio
 
-Output visualizations updated instantly
+-Webcam frame capture with preview and shutter control
 
-Requirements
+-Output visualizations updated instantly
+
+Requirements:
+
 Python 3.8 or higher
 
 Dependencies listed in requirements.txt
 
-Installation
+Installation:
+
 Clone or download the repository
 
 Install required dependencies:
@@ -28,28 +31,30 @@ pip install -r requirements.txt
 Run the application:
 python app.py
 
-Usage
-Drag and drop an image or browse to select one
+Usage:
 
-Adjust the sliders for:
+-Drag and drop an image or browse to select one
 
-Maximum image size
+-Adjust the sliders for:
 
-Density (controls width and resolution of the audio)
+-Maximum image size
 
-Audio duration
+-Density (controls width and resolution of the audio)
 
-Minimum and maximum frequency range
+-Audio duration
 
-Click "Play" to listen or "Save Output" to export as WAV
+-Minimum and maximum frequency range
 
-Click "Capture from Webcam" to preview the camera
+-Click "Play" to listen or "Save Output" to export as WAV
 
-Press C to capture the frame
+-Click "Capture from Webcam" to preview the camera
 
-Press Esc to cancel
+-Press C to capture the frame
 
-Toggle between waveform and spectrogram views using the waveform icon button
+-Press Esc to cancel
 
-License
+-Toggle between waveform and spectrogram views using the waveform icon button
+
+License:
+
 This project is for educational and experimental purposes. All rights reserved by the original developer.
