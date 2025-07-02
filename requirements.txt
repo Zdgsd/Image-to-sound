@@ -1,0 +1,8 @@
+numpy
+Pillow
+matplotlib
+scipy
+sounddevice
+soundfile
+opencv-python
+tkinterdnd2
