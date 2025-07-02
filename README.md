@@ -57,4 +57,4 @@ Usage:
 
 License:
 
-This project is for educational and experimental purposes. All rights reserved by the original developer.
+This project is for educational and experimental purposes. All rights reserved by the original developer (lil ol' me).
